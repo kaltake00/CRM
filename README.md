@@ -7,4 +7,8 @@ The project was done in order to demonstrate my skills with object-oriented prog
 
 Screenshots:
 
+![alt text](https://i.imgur.com/u6yU2wS.png)
+
 ![alt text](https://i.imgur.com/PanZJek.png)
+
+![alt text](https://i.imgur.com/GsR4x7i.png)
