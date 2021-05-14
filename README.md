@@ -7,7 +7,9 @@ The project was done in order to demonstrate my skills with object-oriented prog
 
 Screenshots:
 
-![alt text](https://i.imgur.com/u6yU2wS.png)
+<p align="center">
+  <img width="200" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
+</p>
 
 ![alt text](https://i.imgur.com/PanZJek.png)
 
