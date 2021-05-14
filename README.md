@@ -5,10 +5,11 @@ The project is being done in the PYQT python library, which includes many other 
 
 The project was done in order to demonstrate my skills with object-oriented programming and software development.
 
-Screenshots:
 
+<p align="center">Screenshots:</p>
+  <hr>
 <p align="center">
-  <img width="300" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
+  <img align="center" width="300" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
   <hr>
 </p>
 
