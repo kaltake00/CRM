@@ -8,9 +8,16 @@ The project was done in order to demonstrate my skills with object-oriented prog
 Screenshots:
 
 <p align="center">
-  <img width="200" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
+  <img width="300" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
+  <hr>
 </p>
 
-![alt text](https://i.imgur.com/PanZJek.png)
+<p align="center">
+  <img width="300" src="https://i.imgur.com/PanZJek.png" alt="Material Bread logo">
+  <hr>
+</p>
 
-![alt text](https://i.imgur.com/GsR4x7i.png)
+<p align="center">
+  <img width="300" src="https://i.imgur.com/GsR4x7i.png" alt="Material Bread logo">
+  <hr>
+</p>
