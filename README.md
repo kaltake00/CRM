@@ -13,11 +13,11 @@ Screenshots:
 </p>
 
 <p align="center">
-  <img width="300" src="https://i.imgur.com/PanZJek.png" alt="Material Bread logo">
+  <img width="500" src="https://i.imgur.com/PanZJek.png" alt="Material Bread logo">
   <hr>
 </p>
 
 <p align="center">
-  <img width="300" src="https://i.imgur.com/GsR4x7i.png" alt="Material Bread logo">
+  <img width="500" src="https://i.imgur.com/GsR4x7i.png" alt="Material Bread logo">
   <hr>
 </p>
