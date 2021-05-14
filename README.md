@@ -5,3 +5,6 @@ The project is being done in the PYQT python library, which includes many other 
 
 The project was done in order to demonstrate my skills with object-oriented programming and software development.
 
+Screenshots:
+
+![alt text](https://imgur.com/PanZJek)
