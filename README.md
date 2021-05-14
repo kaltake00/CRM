@@ -10,12 +10,12 @@ The project was done in order to demonstrate my skills with object-oriented prog
   <hr>
 
 <p align="center">
-  <img align="center" width="750" src="https://i.imgur.com/h0sWQis.png" alt="Material Bread logo">
+  <img align="center" width="300" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
   <hr>
 </p>
 
 <p align="center">
-  <img align="center" width="300" src="https://i.imgur.com/u6yU2wS.png" alt="Material Bread logo">
+  <img align="center" width="750" src="https://i.imgur.com/h0sWQis.png" alt="Material Bread logo">
   <hr>
 </p>
 
